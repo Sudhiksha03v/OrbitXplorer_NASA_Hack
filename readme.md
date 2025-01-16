@@ -63,26 +63,4 @@ Overview available at: https://w21030911.nuwebspace.co.uk/graphics/assessment/
 - [Planet Pixel Emporium](https://planetpixelemporium.com/index.php)
 - [TurboSquid](https://www.turbosquid.com/)
 
-## Installation and Setup
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/3d-solar-system.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd 3d-solar-system
-    ```
-3. Install dependencies:
-    ```sh
-    npm install
-    ```
-4. Start the development server:
-    ```sh
-    npm run dev
-    ```
-5. Open your browser and navigate to `http://localhost:3000` to see the 3D Solar System in action.
-
-## Conclusion
-This project is a comprehensive representation of our solar system, bringing together realistic modeling, advanced visual effects, and interactive features. Explore the planets, their moons, and the vast asteroid belts, all from the comfort of your screen.
-
 Feel free to contribute, suggest improvements, or use this project as a foundation for your own THREE.js experiments. Happy exploring!
